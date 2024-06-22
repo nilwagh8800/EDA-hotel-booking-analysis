@@ -1,3 +1,5 @@
+[tableau dashboard link](https://public.tableau.com/views/HotelBookingAnalysisTableauProject_17123370636920/HOTELBOOKINGANALYSISDASHBOARD?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
 # EDA-hotel-booking-analysis
 
 # Problem Statement
